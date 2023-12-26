@@ -2,7 +2,7 @@
  
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying **Information Technology Engineering from Mumbai University. (2019-2023)**
+- 🔭 I’m currently studying **Software Engineering from National University of La Matanza (Argentina). (2023-2028)**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
